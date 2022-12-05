@@ -1,0 +1,24 @@
+{
+  "name": "aoc22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "go": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdwills/aoc22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdwills/aoc22/issues"
+  },
+  "homepage": "https://github.com/cdwills/aoc22#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
